@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Shashwat-2424
-- 👀 I’m interested in CP.
-- 🌱 I’m currently learning CP.
-- 📫 How to reach me ...
+- 👀 I’m interested in CP, Open source contribution.
+- 🌱 I’m currently learning DSA in C++.
 
 <!---
 Shashwat-2424/Shashwat-2424 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
