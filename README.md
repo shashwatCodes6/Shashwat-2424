@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Shashwat!
-- 👨‍🎓 I am an IT sophomore at NSUT
-- 👀 I’m interested in Flutter, Open source contributions.
+- 👨‍🎓 I am an IT junior at NSUT
